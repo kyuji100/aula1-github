@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Yuji
- *
- */
-module GITHUB {
-}
